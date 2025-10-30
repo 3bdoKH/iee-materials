@@ -1,0 +1,23 @@
+— Operators, Conditions & Loops
+
+Objectives
+
+Learn logic flow in programs
+
+Topics
+
+Comparison and logical operators
+
+if, else if, else
+
+for, while, for...of
+
+Template literals
+
+In-Class Project
+
+Build a script that checks if a user entered the correct password or age condition.
+
+Homework
+
+Write a script that prints numbers from 1–20 and only logs even numbers.

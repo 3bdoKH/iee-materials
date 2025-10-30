@@ -1,0 +1,23 @@
+— The Box Model
+
+Objectives
+
+Control spacing, layout, and borders
+
+Topics
+
+Box model: margin, padding, border, content
+
+box-sizing: border-box
+
+Width, height, display types (block, inline, inline-block)
+
+Shadows, outlines
+
+In-Class Project
+
+Design a “product card” layout with borders, shadows, and spacing.
+
+Homework
+
+Create 3 consistent product cards using the same style.

@@ -1,0 +1,23 @@
+— Flexbox Layouts
+
+Objectives
+
+Learn responsive layouts with Flexbox
+
+Topics
+
+display: flex
+
+Main axis vs cross axis
+
+justify-content, align-items, flex-wrap
+
+Building navbars, columns, and cards with Flexbox
+
+In-Class Project
+
+Build a responsive navigation bar and card section.
+
+Homework
+
+Convert your project’s layout to Flexbox structure.

@@ -1,0 +1,25 @@
+— Responsive Design + Grid Intro
+
+Objectives
+
+Adapt designs for various screen sizes
+
+Learn Grid basics
+
+Topics
+
+Media queries (@media)
+
+Responsive units (%, rem, vw, vh)
+
+CSS Grid basics: grid-template-columns, gap
+
+Mobile-first design approach
+
+In-Class Project
+
+Make homepage responsive and add a simple gallery using CSS Grid.
+
+Homework
+
+Adjust project for 3 screen sizes (mobile/tablet/desktop).

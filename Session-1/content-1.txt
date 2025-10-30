@@ -1,0 +1,25 @@
+Objectives
+
+Understand how the web works (browser, server, HTML/CSS/JS roles)
+
+Learn HTML document structure and basic tags
+
+Topics
+
+What is a website (frontend vs backend)
+
+Structure: <!DOCTYPE>, <html>, <head>, <body>
+
+<meta>, <title>, <link>
+
+Headings, paragraphs
+
+Links (<a>) and images (<img>)
+
+In-Class Project
+
+Create a “My First Webpage” with a title, intro paragraph, and two links (internal + external).
+
+Homework
+
+Add more content sections with headings and images.

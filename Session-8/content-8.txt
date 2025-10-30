@@ -1,0 +1,27 @@
+— Intro to JavaScript
+
+Objectives
+
+Understand JS role in the browser
+
+Learn syntax and how to run code
+
+Topics
+
+What is JS? Where to write it?
+
+<script> placement, console.log()
+
+Variables (let, const), data types
+
+Strings, numbers, booleans
+
+Simple operations and string concatenation
+
+In-Class Project
+
+Practice with console.log and write a script that greets the user.
+
+Homework
+
+Create a script that calculates total price of 3 items.

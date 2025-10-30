@@ -1,0 +1,23 @@
+Objectives
+
+Work with data and user input
+
+Understand page composition
+
+Topics
+
+Forms: <form>, <label>, <input>, <select>, <textarea>, <button>
+
+Input types (text, email, password, radio, checkbox)
+
+Tables: <table>, <tr>, <th>, <td>
+
+Nesting structure correctly
+
+In-Class Project
+
+Create a “Contact Us” page with a simple form and a product price table.
+
+Homework
+
+Combine all HTML pages into one project folder with proper linking and folder organization.

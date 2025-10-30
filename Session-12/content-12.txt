@@ -1,0 +1,23 @@
+— Events & Interaction
+
+Objectives
+
+React to user actions with events
+
+Topics
+
+Event listeners (click, input, submit)
+
+Event objects
+
+preventDefault()
+
+Class toggling (.classList.toggle)
+
+In-Class Project
+
+Add a button that toggles dark/light mode on click.
+
+Homework
+
+Add a show/hide menu toggle on your site using JS.

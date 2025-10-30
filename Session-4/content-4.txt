@@ -1,0 +1,27 @@
+— Introduction to CSS
+
+Objectives
+
+Learn how to apply and structure styles
+
+Understand CSS syntax and selectors
+
+Topics
+
+Inline, internal, external CSS
+
+CSS syntax: selector, property, value
+
+Element, class, and ID selectors
+
+Color systems (hex, rgb, hsl)
+
+Fonts, text styles, alignment
+
+In-Class Project
+
+Style the homepage: set background color, font, and basic text formatting.
+
+Homework
+
+Create a style.css file linked to all pages and apply consistent colors and fonts.

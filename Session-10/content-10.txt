@@ -1,0 +1,23 @@
+— Functions & Arrays
+
+Objectives
+
+Create reusable code and handle lists of data
+
+Topics
+
+Declaring functions and parameters
+
+Returning values
+
+Arrays: create, read, add, remove items
+
+Looping through arrays
+
+In-Class Project
+
+Create a function that sums an array of prices and prints the total.
+
+Homework
+
+Build a function that finds the highest score from a list of numbers.

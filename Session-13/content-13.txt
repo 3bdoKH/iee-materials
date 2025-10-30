@@ -1,0 +1,23 @@
+— Forms, Validation & Local Storage
+
+Objectives
+
+Build real interactivity with forms and persistent data
+
+Topics
+
+Getting form values (.value)
+
+Validating inputs (empty fields, email format)
+
+Showing feedback messages
+
+LocalStorage: setItem, getItem
+
+In-Class Project
+
+Validate a contact form and display “Submitted!” message without reload.
+
+Homework
+
+Store a user’s name in LocalStorage and display it on page load.

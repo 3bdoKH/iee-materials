@@ -1,0 +1,25 @@
+– API Handling (Fetch, Async/Await)
+
+What is an API and how it works (real-world examples)
+
+JSON format (how to read and use it)
+
+Using fetch() to get data from a public API
+
+Handling responses and converting to JSON
+
+async and await explained simply
+
+Basic error handling with try/catch
+
+Hands-on Demo:
+
+Fetch and display random users using https://randomuser.me/api
+
+Display the name, image, and country dynamically.
+
+In-class Exercise:
+Build a “Random Joke Generator” using https://official-joke-api.appspot.com/random_joke
+
+Homework:
+Fetch a list of posts from JSONPlaceholder and display the titles.

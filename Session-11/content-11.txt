@@ -1,0 +1,23 @@
+— Objects & the DOM
+
+Objectives
+
+Represent data with objects and access HTML elements
+
+Topics
+
+Objects: key-value pairs
+
+Accessing properties
+
+DOM: document.querySelector(), getElementById()
+
+Changing text/content (.innerText, .innerHTML)
+
+In-Class Project
+
+Dynamically change the text of an HTML element with JS.
+
+Homework
+
+Create a script that updates a “Welcome” message using JS.
