@@ -10,13 +10,22 @@ What is a website (frontend vs backend)
 
 Structure: <!DOCTYPE>, <html>, <head>, <body>
 
-<meta>, <title>, <link>
+<title>, <link>
+
+<meta> : 
+        <meta charset="UTF-8">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="">
 
 Headings, paragraphs
 
+Elements Attributes
+
 Links (<a>) and images (<img>)
 
-In-Class Project
+In-Class Project : 
 
 Create a “My First Webpage” with a title, intro paragraph, and two links (internal + external).
 

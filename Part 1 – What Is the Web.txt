@@ -1,0 +1,84 @@
+Part 1 – What Is the Web?
+
+How the Web Works
+
+	The client–server model:
+
+		Browser (client) sends an HTTP request
+
+		Server processes and sends a response (HTML, CSS, JS)
+
+		DNS, IP, and domain. 142.250.186.46
+
+What is a Website Made Of
+
+	HTML → structure
+
+	CSS → design
+
+	JavaScript → interactivity
+
+Types of Web Developers
+
+	Frontend (UI, visuals)
+
+	Backend (server, database)
+
+	Full-stack (both)
+
+
+
+Part 2 – Simple Intro to HTML
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Webpage</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>This is my first HTML page.</p>
+  </body>
+</html>
+
+Tags & elements
+
+Opening & closing tags
+
+Nesting elements properly
+
+Difference between <head> and <body>
+
+Create a new folder
+
+Inside, create index.html
+
+Open it in the browser directly
+
+Show how every change appears immediately after saving.
+
+
+
+Part 3 – Git & GitHub Basics
+
+Why We Use Git
+
+	Tracks changes to files over time (like Google Docs for code)
+
+	Allows collaboration and history tracking
+
+Installing & Setting Up Git
+
+	Install Git (if not already)
+
+	Configure:
+		git config --global user.name "Your Name"
+		git config --global user.email "your@email.com"
+
+Git Basics Commands
+
+	init, add, commit, push
+
+	create a GitHub account
+	
+	git clone
