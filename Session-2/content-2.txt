@@ -6,14 +6,11 @@ Introduce semantic HTML5 elements
 
 Topics
 
-
 Lists: <ul>, <ol>, <li>
 
 Media: <video>, <audio>, <iframe>
 
 Semantics: <header>, <nav>, <main>, <article>, <section>, <footer>
-
-Accessibility: alt text, logical document flow
 
 In-Class Project
 
@@ -21,4 +18,6 @@ Build a simple 2-page personal website with navigation links.
 
 Homework
 
-Add a navigation menu that links both pages and organize content with semantic tags.
+create two related pages (home, about) 
+    home : implement ul, ol, video, audio, iframe and the semantic tags
+    about: image of yourself with a description about you

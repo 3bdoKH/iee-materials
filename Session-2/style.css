@@ -1,0 +1,112 @@
+/* --- Global Styles --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* --- Header & Navigation --- */
+header {
+    background-color: #fff;
+    padding: 1rem 2rem;
+    border-bottom: 2px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    /* Puts logo on left, nav on right */
+    align-items: center;
+}
+
+header img {
+    max-height: 50px;
+    /* Adjust logo size */
+}
+
+header nav a {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* --- Aside (Sidebar) --- */
+aside {
+    padding: 1rem;
+    background-color: #f9f9f9;
+    width: 200px;
+    /* Fixed width sidebar */
+    border-right: 1px solid #ddd;
+}
+
+aside ul,
+aside ol {
+    padding-left: 20px;
+}
+
+/* --- Main Content --- */
+main {
+    padding: 1rem 2rem;
+    flex: 1;
+    /* This makes <main> take up the remaining space */
+}
+
+article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+article h2 {
+    color: #333;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 0.5rem;
+}
+
+/* --- Comments Section --- */
+article section {
+    margin-top: 1rem;
+    padding-left: 1rem;
+    border-left: 3px solid #007bff;
+    background-color: #fdfdfd;
+}
+
+article section p {
+    font-style: italic;
+    color: #555;
+}
+
+/* --- Media Section --- */
+main section h2 {
+    color: #333;
+}
+
+video,
+iframe {
+    max-width: 100%;
+    /* Make media responsive */
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+audio {
+    width: 100%;
+}
+
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    padding: 2rem;
+    background-color: #333;
+    color: #fff;
+    margin-top: 2rem;
+}
