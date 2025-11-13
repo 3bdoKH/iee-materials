@@ -16,8 +16,8 @@ Nesting structure correctly
 
 In-Class Project
 
-Create a “Contact Us” page with a simple form and a product price table.
-
 Homework
+
+Create a “Contact Us” page with a simple form and a product price table.
 
 Combine all HTML pages into one project folder with proper linking and folder organization.
