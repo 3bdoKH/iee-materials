@@ -1,0 +1,39 @@
+div.parent {
+    /* top right bottom left */
+    padding: 10px 20px 30px 15px;
+    background-color: #A2C7E5;
+
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: red; */
+    border: 2px solid red;
+    width: 200px;
+    box-sizing: border-box;
+    /* top right bottom left */
+    margin: 50px auto;
+}
+
+div span {
+    color: red;
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+
+
+/* 
+Block :
+- take full width if not set
+- add line break
+- respect margin, padding, width, height
+
+Inline :
+- do not respect width, height
+- respect margin, padding [left + right]
+- do not add line break
+- allow elements around it
+
+inline-block : 
+- allow elements aruont it 
+- respect margin, padding, width, height
+*/
