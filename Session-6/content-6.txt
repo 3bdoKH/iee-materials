@@ -14,6 +14,85 @@ justify-content, align-items, flex-wrap
 
 Building navbars, columns, and cards with Flexbox
 
+parent : 
+    - display : flex
+    - justify-content 
+    - gap
+    - align-items
+    - flex-direction
+    - flex-wrap
+    - align-content
+
+child : 
+    1. flex-grow
+
+Controls how much an item expands relative to other items when extra space is available.
+
+Default: 0 (does not grow)
+
+Example: flex-grow: 1 → item grows to fill extra space
+
+If multiple items have flex-grow, space is divided proportionally.
+
+2. flex-shrink
+
+Controls how much an item shrinks relative to others when space is limited.
+
+Default: 1 (item will shrink if needed)
+
+0 → item will not shrink
+
+Larger values shrink more aggressively.
+
+3. order
+
+Controls the visual order of flex items (does not change the DOM structure).
+
+Default: 0
+
+Higher values appear later; lower values appear earlier
+
+Example: order: -1 moves an item to the front.
+
+4. flex-basis
+
+Defines the initial size of a flex item before growing or shrinking.
+
+Default: auto
+
+Can be any length unit (px, rem, %, etc.)
+
+Example: flex-basis: 200px
+
+5. flex (shorthand)
+
+A shorthand for:
+
+flex-grow flex-shrink flex-basis
+
+
+Common patterns:
+
+flex: 1 → 1 1 0 (item fills available space)
+
+flex: 0 0 auto → item keeps natural size
+
+flex: 1 0 200px → grows, doesn’t shrink, starts at 200px
+
+6. align-self
+
+Overrides the parent’s align-items for a specific item.
+
+auto (default) – uses parent’s align-items
+
+flex-start – align at start of cross-axis
+
+flex-end – align at end of cross-axis
+
+center – center on cross-axis
+
+stretch – stretch to fill (if allowed)
+
 In-Class Project
 
 Build a responsive navigation bar and card section.

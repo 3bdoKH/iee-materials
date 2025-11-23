@@ -1,0 +1,64 @@
+/* 
+Flex Container (Parent) Properties
+    1. justify-content
+        flex-start (default) – items packed at the start
+        flex-end – items packed at the end
+        center – items centered
+        space-between – equal space between items
+        space-around – equal space around items (outer space is half-sized)
+        space-evenly – equal space everywhere (between and around items)
+
+    2. gap
+        Controls spacing between flex items.
+        Default: 0
+
+    3. align-items
+        Controls cross-axis alignment of items.
+        (Cross-axis depends on flex-direction.)
+        stretch (default) – items stretch to fill the container
+        center – centered along the cross-axis
+        flex-start – aligned to the start of the cross-axis
+        flex-end – aligned to the end of the cross-axis
+
+    4. flex-wrap
+        Controls whether items wrap to the next line.
+        nowrap (default) – all items stay on one line
+        wrap – items wrap onto multiple lines
+        wrap-reverse – like wrap but reversed order
+
+    5. align-content
+        Controls spacing between rows/columns when wrapping is enabled.
+        (Does nothing if flex-wrap: nowrap.)
+        flex-start – rows packed at the start
+        flex-end – rows packed at the end
+        center – rows centered
+        space-between – equal space between rows
+        space-around – equal space around rows
+        space-evenly – equal spacing throughout
+
+    6. flex-direction
+        Defines the main axis direction.
+        row (default) – horizontal left-to-right
+        row-reverse – horizontal right-to-left
+        column – vertical top-to-bottom
+        column-reverse – vertical bottom-to-top
+
+*/
+
+.flex {
+    border: 20px solid rgb(131, 131, 255);
+    background-color: #ddd;
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.flex div {
+    background-color: rgb(255, 78, 78);
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+}
