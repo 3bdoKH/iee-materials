@@ -10,13 +10,13 @@ Topics
 
 What is JS? Where to write it?
 
-<script> placement, console.log()
+<script> placement, console.log(), document.write() and window.alert()
 
-Variables (let, const), data types
+Variables (var, let, const), data types
 
 Strings, numbers, booleans
 
-Simple operations and string concatenation
+Simple operations and string concatenation (+  -  *  / ** ++ -- %)
 
 In-Class Project
 

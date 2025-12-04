@@ -1,0 +1,52 @@
+/*
+    Parent
+    - display: grid
+    - grid-template-columns: (defualt auto) Number Of Columns and heights => px, %, auto, fraction, repeat
+    - grid-template-rows: (defualt auto) Number Of Rows Height => px, %, auto, fraction, repeat
+    - gap : makes a gap between [rows & columns] 
+    - justify-content : controles the space around the columns [flex-end, start, space around, between, evenly]
+    - align-content : controles the space around the rows [flex-end, start, space around, between, evenly]
+
+    Child 
+    - grid-column: Start / End 
+    - grid-row: Start / End
+*/
+
+
+.parent {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 20px auto;
+    width: 100%;
+    background-color: #ddd;
+    display: grid;
+    height: 600px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, auto));
+    gap: 10px;
+}
+
+.parent div {
+    box-sizing: border-box;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* .parent div:first-child {
+    grid-column: span 10;
+}
+
+.parent div:nth-child(2) {
+    grid-column: span 7;
+}
+
+.parent div:nth-child(3) {
+    grid-column: span 3;
+}
+
+.parent div:nth-child(4) {
+    grid-column: span 10;
+} */
